@@ -1,3 +1,5 @@
 # UVic Programming Club
-Reop holds a collection of code snippets
+Repo holds a collection of code snippets
+</br>
+Problems solved from [Kattis](https://open.kattis.com/)
 
